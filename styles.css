@@ -52,8 +52,7 @@ p {
 
 
 img {
-    width: 288px;
-    height: 288px;
+    max-width: 100%;
     padding: 11px;
     margin: auto;
     display: block;
